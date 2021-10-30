@@ -1,5 +1,7 @@
 # dev_settings
 
+# Use raw preview to copy these settings
+
 # Shell alias
 -='cd -'
 ...=../..
